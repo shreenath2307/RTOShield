@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="RTO Shield cold start blending">
+<title>RTO Shield cold start blending</title>
+<style>
+text{font-family:Inter, Segoe UI, Arial, sans-serif;fill:#142022}
+.serif{font-family:Cormorant Garamond, Georgia, serif}
+.fb{transform-box:fill-box}
+@keyframes d1{0%,6.00%{stroke-dashoffset:1}40.00%,92.00%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+.d1{animation:d1 10.0s cubic-bezier(.16,1,.3,1) infinite both;}
+@keyframes d2{0%,6.00%{stroke-dashoffset:1}40.00%,92.00%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+.d2{animation:d2 10.0s cubic-bezier(.16,1,.3,1) infinite both;}
+@keyframes pt{0%,40.00%{opacity:0}48.00%,92.00%{opacity:1}100%{opacity:0}}
+.pt{animation:pt 10.0s cubic-bezier(.16,1,.3,1) infinite both;}
+.dl{stroke-dasharray:1;stroke-dashoffset:1}
+</style>
+<rect width="1200" height="420" fill="#FAF5EE"/>
+<text class="serif" x="40" y="44" font-size="26">Cold start: benchmarks first, own data as it arrives</text>
+<text x="40" y="68" font-size="12" style="fill:#936E6C">n = labelled orders the seller has. Constant PRIOR_BLEND_K = 500 in backend/app/ml/scorer.py.</text>
+<line x1="90" y1="360.0" x2="850" y2="360.0" stroke="#E0D8CC" stroke-width="1"/><text x="80" y="364.0" font-size="11" text-anchor="end" style="fill:#936E6C">0.00</text>
+<line x1="90" y1="292.5" x2="850" y2="292.5" stroke="#E0D8CC" stroke-width="1"/><text x="80" y="296.5" font-size="11" text-anchor="end" style="fill:#936E6C">0.25</text>
+<line x1="90" y1="225.0" x2="850" y2="225.0" stroke="#E0D8CC" stroke-width="1"/><text x="80" y="229.0" font-size="11" text-anchor="end" style="fill:#936E6C">0.50</text>
+<line x1="90" y1="157.5" x2="850" y2="157.5" stroke="#E0D8CC" stroke-width="1"/><text x="80" y="161.5" font-size="11" text-anchor="end" style="fill:#936E6C">0.75</text>
+<line x1="90" y1="90.0" x2="850" y2="90.0" stroke="#E0D8CC" stroke-width="1"/><text x="80" y="94.0" font-size="11" text-anchor="end" style="fill:#936E6C">1.00</text>
+<line x1="90.0" y1="360" x2="90.0" y2="365" stroke="#142022" stroke-width="1"/><text x="90.0" y="380" font-size="11" text-anchor="middle" style="fill:#936E6C">0</text>
+<line x1="216.7" y1="360" x2="216.7" y2="365" stroke="#142022" stroke-width="1"/><text x="216.7" y="380" font-size="11" text-anchor="middle" style="fill:#936E6C">500</text>
+<line x1="343.3" y1="360" x2="343.3" y2="365" stroke="#142022" stroke-width="1"/><text x="343.3" y="380" font-size="11" text-anchor="middle" style="fill:#936E6C">1000</text>
+<line x1="470.0" y1="360" x2="470.0" y2="365" stroke="#142022" stroke-width="1"/><text x="470.0" y="380" font-size="11" text-anchor="middle" style="fill:#936E6C">1500</text>
+<line x1="596.7" y1="360" x2="596.7" y2="365" stroke="#142022" stroke-width="1"/><text x="596.7" y="380" font-size="11" text-anchor="middle" style="fill:#936E6C">2000</text>
+<line x1="723.3" y1="360" x2="723.3" y2="365" stroke="#142022" stroke-width="1"/><text x="723.3" y="380" font-size="11" text-anchor="middle" style="fill:#936E6C">2500</text>
+<line x1="850.0" y1="360" x2="850.0" y2="365" stroke="#142022" stroke-width="1"/><text x="850.0" y="380" font-size="11" text-anchor="middle" style="fill:#936E6C">3000</text>
+<text x="470.0" y="402" font-size="12" text-anchor="middle" style="fill:#936E6C">labelled orders (n)</text>
+<line x1="90" y1="90" x2="90" y2="360" stroke="#142022" stroke-width="1"/><line x1="90" y1="360" x2="850" y2="360" stroke="#142022" stroke-width="1"/>
+<path class="d1 dl" pathLength="1" d="M90.0,90.0 L102.7,114.5 L115.3,135.0 L128.0,152.3 L140.7,167.1 L153.3,180.0 L166.0,191.2 L178.7,201.2 L191.3,210.0 L204.0,217.9 L216.7,225.0 L229.3,231.4 L242.0,237.3 L254.7,242.6 L267.3,247.5 L280.0,252.0 L292.7,256.2 L305.3,260.0 L318.0,263.6 L330.7,266.9 L343.3,270.0 L356.0,272.9 L368.7,275.6 L381.3,278.2 L394.0,280.6 L406.7,282.9 L419.3,285.0 L432.0,287.0 L444.7,288.9 L457.3,290.8 L470.0,292.5 L482.7,294.1 L495.3,295.7 L508.0,297.2 L520.7,298.6 L533.3,300.0 L546.0,301.3 L558.7,302.6 L571.3,303.8 L584.0,304.9 L596.7,306.0 L609.3,307.1 L622.0,308.1 L634.7,309.1 L647.3,310.0 L660.0,310.9 L672.7,311.8 L685.3,312.6 L698.0,313.4 L710.7,314.2 L723.3,315.0 L736.0,315.7 L748.7,316.5 L761.3,317.1 L774.0,317.8 L786.7,318.5 L799.3,319.1 L812.0,319.7 L824.7,320.3 L837.3,320.9 L850.0,321.4" fill="none" stroke="#936E6C" stroke-width="2"/>
+<path class="d2 dl" pathLength="1" d="M90.0,360.0 L102.7,335.5 L115.3,315.0 L128.0,297.7 L140.7,282.9 L153.3,270.0 L166.0,258.8 L178.7,248.8 L191.3,240.0 L204.0,232.1 L216.7,225.0 L229.3,218.6 L242.0,212.7 L254.7,207.4 L267.3,202.5 L280.0,198.0 L292.7,193.8 L305.3,190.0 L318.0,186.4 L330.7,183.1 L343.3,180.0 L356.0,177.1 L368.7,174.4 L381.3,171.8 L394.0,169.4 L406.7,167.1 L419.3,165.0 L432.0,163.0 L444.7,161.1 L457.3,159.2 L470.0,157.5 L482.7,155.9 L495.3,154.3 L508.0,152.8 L520.7,151.4 L533.3,150.0 L546.0,148.7 L558.7,147.4 L571.3,146.2 L584.0,145.1 L596.7,144.0 L609.3,142.9 L622.0,141.9 L634.7,140.9 L647.3,140.0 L660.0,139.1 L672.7,138.2 L685.3,137.4 L698.0,136.6 L710.7,135.8 L723.3,135.0 L736.0,134.3 L748.7,133.5 L761.3,132.9 L774.0,132.2 L786.7,131.5 L799.3,130.9 L812.0,130.3 L824.7,129.7 L837.3,129.1 L850.0,128.6" fill="none" stroke="#142022" stroke-width="2"/>
+<g class="pt"><circle cx="216.7" cy="225.0" r="4" fill="#FAF5EE" stroke="#142022" stroke-width="1"/><text x="226.7" y="215.0" font-size="12">n = 500: 0.50 / 0.50</text><circle cx="596.7" cy="144.0" r="4" fill="#FAF5EE" stroke="#142022" stroke-width="1"/><text x="586.7" y="134.0" font-size="12" text-anchor="end">n = 2,000: 0.20 / 0.80</text></g>
+<line x1="890" y1="120" x2="920" y2="120" stroke="#936E6C" stroke-width="2"/><text x="930" y="124" font-size="13">Pincode benchmark weight</text><text x="930" y="142" font-size="12" style="fill:#936E6C">w = 500 / (n + 500)</text>
+<line x1="890" y1="180" x2="920" y2="180" stroke="#142022" stroke-width="2"/><text x="930" y="184" font-size="13">Trained model weight</text><text x="930" y="202" font-size="12" style="fill:#936E6C">1 - w = n / (n + 500)</text>
+<text x="890" y="250" font-size="12" style="fill:#936E6C">At n = 0 the scorer is the</text><text x="890" y="268" font-size="12" style="fill:#936E6C">transparent benchmark model.</text><text x="890" y="286" font-size="12" style="fill:#936E6C">Cold-start scores are marked</text><text x="890" y="304" font-size="12" style="fill:#936E6C">as such in the API.</text>
+</svg>

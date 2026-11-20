@@ -1,0 +1,11 @@
+event,start_date,end_date,type,source,confidence
+Amazon Great Indian Festival 2026,2026-10-08,,ecommerce_sale,https://www.aboutamazon.in/news/retail/amazon-great-indian-festival-2026-dates,high
+Flipkart Big Billion Days 2026 (early access 2026-10-08),2026-10-09,,ecommerce_sale,https://www.goodreturns.in/news/when-is-flipkart-big-billion-days-2026-date-early-access-bank-offers-and-what-to-expect-1538241.html,medium
+IMD monsoon onset Kerala 2026,2026-06-04,,monsoon,IMD Salient Features SW Monsoon 2026,high
+IMD monsoon covers entire country 2026,2026-07-09,,monsoon,IMD Salient Features SW Monsoon 2026,high
+IMD monsoon withdrawal begins 2026,2026-09-19,,monsoon,IMD Salient Features SW Monsoon 2026,high
+Diwali (Lakshmi Puja) 2026,2026-11-08,,festival,model knowledge - VERIFY,low
+Dussehra 2026,2026-10-20,,festival,model knowledge - VERIFY,low
+Raksha Bandhan 2026,2026-08-28,,festival,model knowledge - VERIFY,low
+Ganesh Chaturthi 2026,2026-09-14,,festival,model knowledge - VERIFY,low
+Holi 2026,2026-03-04,,festival,model knowledge - VERIFY,low

@@ -1,0 +1,51 @@
+order_id,order_date,customer_id,customer_phone,customer_name,pincode,city,state,address,order_value,payment_method,product_category,sku,quantity,channel
+NEW5001,2026-11-20 02:01:01,CUSTN000001,8761851587,Amit Thomas,400016,Mumbai,Maharashtra,"Flat 1170, House No 866, Boring Road, Mumbai",3149.0,COD,Beauty,BTY-1680,3,shopify
+NEW5002,2026-11-20 02:49:39,CUSTN000002,7870404015,Joseph Kumar,834096,Ranchi,Jharkhand,near petrol pump Ranchi,1599.0,PREPAID,Fashion,FSH-8647,2,instagram
+NEW5003,2026-11-20 06:56:24,CUSTN000003,9303483222,Sunita Sandhu,124093,Rohtak,Haryana,"Andheri East, Rohtak",649.0,COD,Health,HLT-4968,1,website
+NEW5004,2026-11-20 09:05:06,CUSTN000004,6763956501,Ankit Sharma,390053,Vadodara,Gujarat,"Flat 151, House No 470, Laxmi Nagar, Vadodara",1649.0,COD,Fashion,FSH-4694,1,website
+NEW5005,2026-11-20 09:16:50,CUSTN000005,9255591883,Sourav Khan,484070,Shahdol,Madhya Pradesh,near bus stand Shahdol,4099.0,COD,Electronics,ELC-8433,1,whatsapp
+NEW5006,2026-11-20 09:16:53,CUSTN000006,6448529739,Nisha Kulkarni,560080,Bengaluru,Karnataka,"Nehru Colony, Bengaluru",1649.0,PREPAID,Electronics,ELC-6709,1,website
+NEW5007,2026-11-20 09:26:47,CUSTN000007,9372193299,Joseph Mohanty,305039,Ajmer,Rajasthan,"Model Town, Ajmer",2499.0,COD,Electronics,ELC-9752,1,instagram
+NEW5008,2026-11-20 10:16:47,CUST000001,9833917999,Rohan Banerjee,380003,Ahmedabad,Gujarat,"Flat 402, House No 2, Patel Chowk, Ahmedabad",349.0,PREPAID,Beauty,BTY-5314,1,woocommerce
+NEW5009,2026-11-20 11:15:30,CUSTN000009,9105368187,Tanvi Bhat,587017,Bagalkot,Karnataka,gali no 3 Bagalkot,949.0,COD,Fashion,FSH-4338,3,manual
+NEW5010,2026-11-20 11:15:37,CUST000005,7749759600,Pooja Mukherjee,152062,Ferozepur,Punjab,"Patel Chowk, Ferozepur",549.0,PREPAID,Fashion,FSH-6834,1,instagram
+NEW5011,2026-11-20 11:20:38,CUSTN000011,7495083581,Reyansh Kaur,829027,Ramgarh,Jharkhand,"Flat 608, House No 958, Model Town, Ramgarh",2249.0,COD,Home & Kitchen,HMK-6820,1,shopify
+NEW5012,2026-11-20 11:29:50,CUSTN000012,8869647778,Ritu Borah,414081,Ahmednagar,Maharashtra,"Patel Chowk, Ahmednagar",499.0,COD,Fashion,FSH-1237,1,shopify
+NEW5013,2026-11-20 11:35:25,CUSTN000013,7519696177,Vikas Iyer,180039,Jammu,Jammu and Kashmir,near temple,799.0,COD,Grocery,GRC-3424,1,shopify
+NEW5014,2026-11-20 11:44:19,CUSTN000014,9558069878,Sneha Mohanty,222038,Jaunpur,Uttar Pradesh,"MG Road, Jaunpur",449.0,COD,Fashion,FSH-5355,2,website
+NEW5015,2026-11-20 13:18:29,CUSTN000015,6746730412,Sneha Patel,610026,Tiruvarur,Tamil Nadu,"Flat 847, House No 734, Civil Lines, Tiruvarur",849.0,COD,Home & Kitchen,HMK-6796,3,woocommerce
+NEW5016,2026-11-20 13:20:44,CUSTN000016,8824118571,Sneha Menon,431033,Aurangabad,Maharashtra,near petrol pump,2249.0,PREPAID,Footwear,FTW-9712,1,manual
+NEW5017,2026-11-20 13:31:37,CUSTN000017,7598206665,Saanvi Thomas,495035,Bilaspur,Chhattisgarh,"Flat 382, House No 117, Main Bazaar, Bilaspur",749.0,COD,Beauty,BTY-7615,2,shopify
+NEW5018,2026-11-20 13:45:54,CUSTN000018,7555358179,Riya Mishra,852079,Saharsa,Bihar,"Laxmi Nagar, Saharsa",849.0,COD,Accessories,ACC-1799,2,instagram
+NEW5019,2026-11-20 14:38:41,CUST000005,7749759600,Pooja Mukherjee,152062,Ferozepur,Punjab,behind market,2999.0,PREPAID,Health,HLT-7870,2,shopify
+NEW5020,2026-11-20 14:40:32,CUST000005,7749759600,Pooja Mukherjee,152062,Ferozepur,Punjab,"Flat 1103, House No 652, Bani Park, Ferozepur",5299.0,PREPAID,Electronics,ELC-9090,2,website
+NEW5021,2026-11-20 14:43:50,CUSTN000021,9836274945,Amit Nair,835067,Ranchi Rural,Jharkhand,opp school Ranchi Rural,699.0,COD,Grocery,GRC-2739,2,instagram
+NEW5022,2026-11-20 15:15:14,CUSTN000022,1592869784,Fatima Ansari,361029,Jamnagar,Gujarat,"Flat 263, House No 104, Kothrud, Jamnagar",5799.0,COD,Electronics,ELC-8218,2,manual
+NEW5023,2026-11-20 15:22:17,CUSTN000023,8277060006,Arun Desai,638088,Erode,Tamil Nadu,"Sector 15, Erode",299.0,COD,Beauty,BTY-5040,1,website
+NEW5024,2026-11-20 15:25:58,CUSTN000024,9820289642,Ankit Thomas,394073,Surat,Gujarat,"Civil Lines, Surat",699.0,PREPAID,Fashion,FSH-1259,1,whatsapp
+NEW5025,2026-11-20 15:59:58,CUSTN000025,7056981435,Arjun Borah,623003,Ramanathapuram,Tamil Nadu,"Flat 104, House No 709, MG Road, Ramanathapuram",999.0,COD,Fashion,FSH-5977,1,shopify
+NEW5026,2026-11-20 16:00:07,CUST000002,9893387967,Nisha Rao,361003,Jamnagar,Gujarat,"Banjara Hills, Jamnagar",649.0,COD,Fashion,FSH-6929,1,website
+NEW5027,2026-11-20 16:35:36,CUSTN000027,9457340092,Neha Bhat,452020,Indore,Madhya Pradesh,"Flat 648, House No 448, Boring Road, Indore",1349.0,PREPAID,Home & Kitchen,HMK-1437,1,website
+NEW5028,2026-11-20 16:46:49,CUSTN000028,7022302446,Anjali Sharma,394079,Surat,Gujarat,"Flat 209, House No 429, Gandhi Nagar, Surat",1099.0,COD,Electronics,ELC-6022,2,shopify
+NEW5029,2026-11-20 17:46:55,CUSTN000029,9565250811,Aadhya Desai,484089,Shahdol,Madhya Pradesh,"Sector 62, Shahdol",2599.0,PREPAID,Fashion,FSH-5102,1,instagram
+NEW5030,2026-11-20 18:30:37,CUSTN000030,7951706238,Joseph Verma,834096,Ranchi,Jharkhand,near masjid,399.0,COD,Accessories,ACC-8090,1,woocommerce
+NEW5031,2026-11-20 18:32:20,CUST000002,9893387967,Nisha Rao,361003,Jamnagar,Gujarat,"Flat 1005, House No 8, Station Road, Jamnagar",799.0,COD,Fashion,FSH-2631,2,woocommerce
+NEW5032,2026-11-20 19:21:42,CUSTN000032,7557703079,Karthik Sheikh,755020,Jajpur,Odisha,"Flat 193, House No 567, Model Town, Jajpur",2399.0,COD,Electronics,ELC-5477,1,instagram
+NEW5033,2026-11-20 19:29:43,CUST000002,9893387967,Nisha Rao,361003,Jamnagar,Gujarat,"Flat 148, House No 455, Gandhi Nagar, Jamnagar",1299.0,COD,Fashion,FSH-1205,1,shopify
+NEW5034,2026-11-20 19:34:54,CUST000004,7061053949,Riya Hegde,831045,Jamshedpur,Jharkhand,"Sector 62, Jamshedpur",849.0,COD,Footwear,FTW-1761,1,website
+NEW5035,2026-11-20 19:40:12,CUSTN000035,8360909430,Lalitha Thomas,764089,Koraput,Odisha,"Flat 636, House No 989, Anna Nagar, Koraput",799.0,COD,Fashion,FSH-9538,1,woocommerce
+NEW5036,2026-11-20 19:41:02,CUSTN000036,7705113836,Diya Saikia,797036,Kohima,Nagaland,"Flat 126, House No 716, Laxmi Nagar, Kohima",2549.0,COD,Home & Kitchen,HMK-1974,5,website
+NEW5037,2026-11-20 19:59:49,CUSTN000037,9311958512,Kavya Patil,380075,Ahmedabad,Gujarat,"Flat 629, House No 856, Indira Nagar, Ahmedabad",999.0,COD,Footwear,FTW-1390,2,website
+NEW5038,2026-11-20 20:09:37,CUSTN000038,9379716865,Vikas Mohanty,248002,Dehradun,Uttarakhand,near petrol pump,499.0,PREPAID,Beauty,BTY-4961,1,instagram
+NEW5039,2026-11-20 20:18:19,CUSTN000039,8927682381,Joseph Sheikh,609003,Karaikal,Puducherry,"Flat 399, House No 693, Station Road, Karaikal",3449.0,COD,Electronics,ELC-2259,2,website
+NEW5040,2026-11-20 20:28:46,CUST000001,9833917999,Rohan Banerjee,380003,Ahmedabad,Gujarat,"Flat 151, House No 229, Sector 62, Ahmedabad",2449.0,PREPAID,Electronics,ELC-4000,1,woocommerce
+NEW5041,2026-11-20 20:38:17,CUSTN000041,9193235993,Sai Nair,160028,Chandigarh,Chandigarh,"Flat 1168, House No 133, Salt Lake Sector 2, Chandigarh",399.0,COD,Beauty,BTY-3843,1,shopify
+NEW5042,2026-11-20 21:06:53,CUSTN000042,7154867471,Sanjay Saikia,495032,Bilaspur,Chhattisgarh,"Salt Lake Sector 2, Bilaspur",899.0,PREPAID,Health,HLT-8584,1,instagram
+NEW5043,2026-11-20 21:15:20,CUSTN000043,6213724314,Yash Ahmed,221032,Varanasi,Uttar Pradesh,"Flat 817, House No 437, Andheri East, Varanasi",1799.0,PREPAID,Electronics,ELC-6248,1,website
+NEW5044,2026-11-20 21:19:56,CUSTN000044,8358573870,Manoj Sahu,517066,Tirupati,Andhra Pradesh,near temple,2149.0,COD,Fashion,FSH-5868,1,whatsapp
+NEW5045,2026-11-20 21:37:18,CUSTN000045,9325617513,Anjali Banerjee,638009,Erode,Tamil Nadu,"Flat 139, House No 311, Sector 62, Erode",1299.0,PREPAID,Fashion,FSH-6953,2,whatsapp
+NEW5046,2026-11-20 22:27:36,CUSTN000046,7155168796,Lalitha Chatterjee,333077,Jhunjhunu,Rajasthan,"Flat 852, House No 184, Gandhi Nagar, Jhunjhunu",4299.0,COD,Electronics,ELC-7298,2,instagram
+NEW5047,2026-11-20 22:31:41,CUSTN000047,7855581132,Joseph Behera,755022,Jajpur,Odisha,"Boring Road, Jajpur",499.0,PREPAID,Grocery,GRC-9370,1,shopify
+NEW5048,2026-11-20 22:34:12,CUSTN000048,7262758827,Suresh Sheikh,148064,Sangrur,Punjab,"Flat 1129, House No 902, Gandhi Nagar, Sangrur",499.0,PREPAID,Accessories,ACC-1916,1,website
+NEW5049,2026-11-20 23:31:30,CUSTN000049,9728860574,Kavya Reddy,231002,Mirzapur,Uttar Pradesh,"Flat 167, House No 137, Model Town, Mirzapur",3049.0,COD,Electronics,ELC-1289,1,instagram
+NEW5050,2026-11-20 23:38:28,CUSTN000050,8349905572,Yash Agarwal,122065,Gurugram,Haryana,"Flat 253, House No 983, Laxmi Nagar, Gurugram",3149.0,COD,Fashion,FSH-5628,2,whatsapp

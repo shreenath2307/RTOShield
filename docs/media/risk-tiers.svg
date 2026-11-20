@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="RTO Shield risk tiers">
+<title>RTO Shield risk tiers</title>
+<style>
+text{font-family:Inter, Segoe UI, Arial, sans-serif;fill:#142022}
+.serif{font-family:Cormorant Garamond, Georgia, serif}
+.fb{transform-box:fill-box}
+@keyframes b0{0%,5.56%{transform:scaleY(0)}20.00%,92.00%{transform:scaleY(1)}100%{transform:scaleY(1);opacity:0}}
+.b0{animation:b0 9.0s cubic-bezier(.16,1,.3,1) infinite both;transform-origin:50% 100%;transform-box:fill-box}
+@keyframes t0{0%,20.00%{opacity:0}28.89%,92.00%{opacity:1}100%{opacity:0}}
+.t0{animation:t0 9.0s cubic-bezier(.16,1,.3,1) infinite both;}
+@keyframes b1{0%,11.11%{transform:scaleY(0)}25.56%,92.00%{transform:scaleY(1)}100%{transform:scaleY(1);opacity:0}}
+.b1{animation:b1 9.0s cubic-bezier(.16,1,.3,1) infinite both;transform-origin:50% 100%;transform-box:fill-box}
+@keyframes t1{0%,25.56%{opacity:0}34.44%,92.00%{opacity:1}100%{opacity:0}}
+.t1{animation:t1 9.0s cubic-bezier(.16,1,.3,1) infinite both;}
+@keyframes b2{0%,16.67%{transform:scaleY(0)}31.11%,92.00%{transform:scaleY(1)}100%{transform:scaleY(1);opacity:0}}
+.b2{animation:b2 9.0s cubic-bezier(.16,1,.3,1) infinite both;transform-origin:50% 100%;transform-box:fill-box}
+@keyframes t2{0%,31.11%{opacity:0}40.00%,92.00%{opacity:1}100%{opacity:0}}
+.t2{animation:t2 9.0s cubic-bezier(.16,1,.3,1) infinite both;}
+</style>
+<rect width="1200" height="440" fill="#FAF5EE"/>
+<text class="serif" x="40" y="44" font-size="26">Risk-tiered actions</text>
+<text x="40" y="68" font-size="12" style="fill:#936E6C">Bars: orders per tier among the 2,151 live-scored orders on the bundled synthetic demo data. Actions shown are the tier_rules defaults; the default policy is cost-based.</text>
+<rect x="40" y="90" width="360" height="330" fill="#FAF5EE" stroke="#142022" stroke-width="1"/>
+<text class="serif" x="60" y="134" font-size="34" style="fill:#4F7A5D">Low</text>
+<line x1="60" y1="148" x2="380" y2="148" stroke="#E0D8CC" stroke-width="1"/>
+<line x1="60" y1="300" x2="380" y2="300" stroke="#E0D8CC" stroke-width="1"/>
+<rect class="b0" x="60" y="150.0" width="64" height="150.0" fill="#4F7A5D"/>
+<text class="serif t0" x="136" y="294" font-size="22">1,136 orders (53%)</text>
+<text x="60" y="332" font-size="11" style="fill:#936E6C" letter-spacing="1">DEFAULT ACTION</text>
+<text class="serif" x="60" y="360" font-size="22">No action</text>
+<text x="60" y="384" font-size="12" style="fill:#936E6C">Ship normally. Intervening costs more than it</text>
+<text x="60" y="400" font-size="12" style="fill:#936E6C">saves.</text>
+<rect x="425" y="90" width="360" height="330" fill="#FAF5EE" stroke="#142022" stroke-width="1"/>
+<text class="serif" x="445" y="134" font-size="34" style="fill:#B07D2E">Medium</text>
+<line x1="445" y1="148" x2="765" y2="148" stroke="#E0D8CC" stroke-width="1"/>
+<line x1="445" y1="300" x2="765" y2="300" stroke="#E0D8CC" stroke-width="1"/>
+<rect class="b1" x="445" y="187.6" width="64" height="112.4" fill="#B07D2E"/>
+<text class="serif t1" x="521" y="294" font-size="22">851 orders (40%)</text>
+<text x="445" y="332" font-size="11" style="fill:#936E6C" letter-spacing="1">DEFAULT ACTION</text>
+<text class="serif" x="445" y="360" font-size="22">WhatsApp confirmation</text>
+<text x="445" y="384" font-size="12" style="fill:#936E6C">Customer confirms, cancels or fixes the</text>
+<text x="445" y="400" font-size="12" style="fill:#936E6C">address at /c/{token}.</text>
+<rect x="810" y="90" width="360" height="330" fill="#FAF5EE" stroke="#142022" stroke-width="1"/>
+<text class="serif" x="830" y="134" font-size="34" style="fill:#A3443B">High</text>
+<line x1="830" y1="148" x2="1150" y2="148" stroke="#E0D8CC" stroke-width="1"/>
+<line x1="830" y1="300" x2="1150" y2="300" stroke="#E0D8CC" stroke-width="1"/>
+<rect class="b2" x="830" y="278.3" width="64" height="21.7" fill="#A3443B"/>
+<text class="serif t2" x="906" y="294" font-size="22">164 orders (8%)</text>
+<text x="830" y="332" font-size="11" style="fill:#936E6C" letter-spacing="1">DEFAULT ACTION</text>
+<text class="serif" x="830" y="360" font-size="22">Prepaid nudge or review</text>
+<text x="830" y="384" font-size="12" style="fill:#936E6C">Cost-based policy picks the action. Pincode</text>
+<text x="830" y="400" font-size="12" style="fill:#936E6C">alone never makes an order High.</text>
+</svg>

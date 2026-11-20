@@ -1,0 +1,369 @@
+# ILLUSTRATIVE industry-style RTO benchmarks aggregated by region (NOT courier-published data).
+# Replace with courier-published / aggregator pincode RTO data before production use.
+pincode_prefix,state,city,region,tier,lat,lng,benchmark_rto_cod,benchmark_rto_prepaid,pseudo_count,income_band
+110,Delhi,New Delhi,North,1,28.61,77.21,0.181,0.041,194,high
+121,Haryana,Faridabad,North,2,28.41,77.31,0.264,0.044,114,mid
+122,Haryana,Gurugram,North,1,28.46,77.03,0.149,0.033,190,high
+123,Haryana,Rewari,North,3,28.19,76.62,0.289,0.056,50,mid
+124,Haryana,Rohtak,North,2,28.90,76.61,0.247,0.043,135,mid
+125,Haryana,Hisar,North,2,29.15,75.72,0.245,0.046,108,mid
+126,Haryana,Jind,North,3,29.32,76.31,0.297,0.049,64,mid
+127,Haryana,Bhiwani,North,3,28.79,76.13,0.308,0.053,69,mid
+131,Haryana,Sonipat,North,2,28.99,77.02,0.217,0.035,130,mid
+132,Haryana,Panipat,North,2,29.39,76.97,0.27,0.048,113,mid
+133,Haryana,Ambala,North,2,30.38,76.78,0.222,0.039,118,mid
+134,Haryana,Panchkula,North,2,30.69,76.86,0.221,0.044,113,high
+135,Haryana,Yamunanagar,North,3,30.13,77.29,0.297,0.056,56,mid
+136,Haryana,Kurukshetra,North,3,29.97,76.88,0.283,0.053,72,mid
+140,Punjab,Mohali,North,2,30.70,76.72,0.234,0.041,120,mid
+141,Punjab,Ludhiana,North,2,30.90,75.86,0.267,0.046,134,mid
+142,Punjab,Moga,North,3,30.82,75.17,0.275,0.049,51,mid
+143,Punjab,Amritsar,North,2,31.63,74.87,0.239,0.036,133,mid
+144,Punjab,Jalandhar,North,2,31.33,75.58,0.262,0.044,119,mid
+145,Punjab,Pathankot,North,3,32.27,75.65,0.273,0.05,66,mid
+146,Punjab,Hoshiarpur,North,3,31.53,75.91,0.311,0.059,66,mid
+147,Punjab,Patiala,North,2,30.34,76.39,0.217,0.041,115,mid
+148,Punjab,Sangrur,North,3,30.25,75.84,0.301,0.06,48,mid
+151,Punjab,Bathinda,North,3,30.21,74.95,0.271,0.05,58,mid
+152,Punjab,Ferozepur,North,3,30.93,74.61,0.302,0.055,62,mid
+160,Chandigarh,Chandigarh,North,2,30.73,76.78,0.276,0.049,117,high
+171,Himachal Pradesh,Shimla,North,3,31.10,77.17,0.286,0.051,48,mid
+173,Himachal Pradesh,Solan,North,3,30.91,77.10,0.263,0.053,63,mid
+174,Himachal Pradesh,Bilaspur,North,3,31.34,76.76,0.264,0.05,46,mid
+175,Himachal Pradesh,Mandi,North,3,31.71,76.93,0.293,0.062,54,mid
+176,Himachal Pradesh,Dharamshala,North,3,32.22,76.32,0.261,0.051,56,mid
+177,Himachal Pradesh,Hamirpur,North,3,31.69,76.52,0.307,0.055,59,mid
+180,Jammu and Kashmir,Jammu,North,2,32.73,74.86,0.264,0.049,114,mid
+181,Jammu and Kashmir,R S Pura,North,3,32.61,74.73,0.305,0.057,57,low
+182,Jammu and Kashmir,Udhampur,North,3,32.93,75.14,0.295,0.055,65,low
+184,Jammu and Kashmir,Kathua,North,3,32.37,75.52,0.268,0.048,66,low
+185,Jammu and Kashmir,Rajouri,North,3,33.38,74.31,0.317,0.058,71,low
+190,Jammu and Kashmir,Srinagar,North,2,34.08,74.80,0.216,0.041,122,mid
+192,Jammu and Kashmir,Anantnag,North,3,33.73,75.15,0.322,0.054,72,low
+193,Jammu and Kashmir,Baramulla,North,3,34.20,74.34,0.307,0.065,62,low
+194,Ladakh,Leh,North,3,34.15,77.58,0.317,0.058,61,low
+201,Uttar Pradesh,Noida / Ghaziabad,North,1,28.57,77.39,0.172,0.03,191,high
+202,Uttar Pradesh,Aligarh,North,3,27.88,78.08,0.315,0.057,65,low
+203,Uttar Pradesh,Bulandshahr,North,3,28.41,77.85,0.295,0.044,73,low
+204,Uttar Pradesh,Hathras,North,3,27.60,78.05,0.285,0.053,45,low
+206,Uttar Pradesh,Etawah,North,3,26.78,79.02,0.294,0.052,69,low
+207,Uttar Pradesh,Etah,North,3,27.56,78.66,0.324,0.059,72,low
+208,Uttar Pradesh,Kanpur,North,2,26.45,80.33,0.256,0.047,133,mid
+209,Uttar Pradesh,Unnao,North,3,26.55,80.49,0.326,0.06,70,low
+210,Uttar Pradesh,Banda,North,3,25.48,80.34,0.285,0.046,69,low
+211,Uttar Pradesh,Prayagraj,North,2,25.44,81.85,0.29,0.055,117,mid
+212,Uttar Pradesh,Fatehpur,North,3,25.93,80.81,0.309,0.057,51,low
+221,Uttar Pradesh,Varanasi,North,2,25.32,82.97,0.225,0.046,116,mid
+222,Uttar Pradesh,Jaunpur,North,3,25.75,82.69,0.28,0.052,46,low
+224,Uttar Pradesh,Ayodhya,North,3,26.80,82.20,0.305,0.053,73,low
+225,Uttar Pradesh,Barabanki,North,3,26.93,81.19,0.293,0.053,73,low
+226,Uttar Pradesh,Lucknow,North,2,26.85,80.95,0.226,0.047,121,mid
+227,Uttar Pradesh,Lucknow Rural,North,3,26.70,80.80,0.293,0.06,49,low
+229,Uttar Pradesh,Rae Bareli,North,3,26.23,81.23,0.345,0.062,65,low
+231,Uttar Pradesh,Mirzapur,North,3,25.15,82.57,0.276,0.049,69,low
+233,Uttar Pradesh,Ghazipur,North,3,25.58,83.58,0.3,0.058,74,low
+241,Uttar Pradesh,Hardoi,North,3,27.40,80.13,0.32,0.056,51,low
+242,Uttar Pradesh,Shahjahanpur,North,3,27.88,79.91,0.341,0.064,65,low
+243,Uttar Pradesh,Bareilly,North,2,28.37,79.43,0.293,0.058,120,mid
+244,Uttar Pradesh,Moradabad,North,2,28.84,78.77,0.265,0.05,129,mid
+245,Uttar Pradesh,Hapur,North,3,28.73,77.78,0.292,0.058,47,low
+246,Uttar Pradesh,Bijnor,North,3,29.37,78.14,0.289,0.056,46,low
+247,Uttar Pradesh,Saharanpur,North,3,29.97,77.55,0.332,0.064,57,low
+248,Uttarakhand,Dehradun,North,2,30.32,78.03,0.243,0.04,108,mid
+249,Uttarakhand,Haridwar,North,3,29.95,78.16,0.262,0.05,70,low
+250,Uttar Pradesh,Meerut,North,2,28.98,77.71,0.263,0.049,111,mid
+251,Uttar Pradesh,Muzaffarnagar,North,3,29.47,77.70,0.302,0.055,60,low
+261,Uttar Pradesh,Sitapur,North,3,27.57,80.68,0.334,0.052,60,low
+262,Uttar Pradesh,Lakhimpur Kheri,North,3,27.95,80.78,0.289,0.05,70,low
+263,Uttarakhand,Haldwani,North,3,29.22,79.51,0.314,0.056,51,low
+271,Uttar Pradesh,Gonda,North,3,27.13,81.96,0.278,0.054,50,low
+272,Uttar Pradesh,Basti,North,3,26.80,82.73,0.344,0.07,72,low
+273,Uttar Pradesh,Gorakhpur,North,2,26.76,83.37,0.28,0.048,135,mid
+274,Uttar Pradesh,Deoria,North,3,26.50,83.78,0.314,0.052,65,low
+276,Uttar Pradesh,Azamgarh,North,3,26.07,83.18,0.29,0.048,51,low
+277,Uttar Pradesh,Ballia,North,3,25.76,84.15,0.352,0.065,65,low
+281,Uttar Pradesh,Mathura,North,3,27.49,77.67,0.344,0.062,62,low
+282,Uttar Pradesh,Agra,North,2,27.18,78.01,0.285,0.056,132,mid
+283,Uttar Pradesh,Firozabad,North,3,27.15,78.40,0.34,0.066,51,low
+284,Uttar Pradesh,Jhansi,North,2,25.45,78.57,0.282,0.052,125,mid
+285,Uttar Pradesh,Orai,North,3,25.99,79.45,0.322,0.058,46,low
+301,Rajasthan,Alwar,North,3,27.55,76.63,0.28,0.061,48,low
+302,Rajasthan,Jaipur,North,2,26.91,75.79,0.287,0.057,128,mid
+303,Rajasthan,Jaipur Rural,North,3,27.00,75.90,0.316,0.056,70,low
+305,Rajasthan,Ajmer,North,2,26.45,74.64,0.253,0.049,117,mid
+311,Rajasthan,Bhilwara,North,3,25.35,74.63,0.314,0.057,59,low
+312,Rajasthan,Chittorgarh,North,3,24.88,74.62,0.338,0.064,65,low
+313,Rajasthan,Udaipur,North,2,24.59,73.71,0.228,0.048,117,mid
+321,Rajasthan,Bharatpur,North,3,27.22,77.49,0.322,0.059,73,low
+322,Rajasthan,Sawai Madhopur,North,3,26.02,76.35,0.295,0.058,72,low
+324,Rajasthan,Kota,North,2,25.21,75.86,0.27,0.052,111,mid
+325,Rajasthan,Baran,North,3,25.10,76.51,0.344,0.056,52,low
+326,Rajasthan,Jhalawar,North,3,24.60,76.16,0.284,0.051,55,low
+327,Rajasthan,Banswara,North,3,23.55,74.44,0.275,0.056,47,low
+331,Rajasthan,Churu,North,3,28.30,74.95,0.29,0.054,55,low
+332,Rajasthan,Sikar,North,3,27.61,75.14,0.281,0.053,74,low
+333,Rajasthan,Jhunjhunu,North,3,28.13,75.40,0.337,0.059,53,low
+334,Rajasthan,Bikaner,North,2,28.02,73.31,0.284,0.052,128,mid
+335,Rajasthan,Sri Ganganagar,North,3,29.90,73.88,0.281,0.059,66,low
+341,Rajasthan,Nagaur,North,3,27.20,73.73,0.35,0.068,58,low
+342,Rajasthan,Jodhpur,North,2,26.24,73.02,0.268,0.051,121,mid
+344,Rajasthan,Barmer,North,3,25.75,71.39,0.344,0.065,59,low
+345,Rajasthan,Jaisalmer,North,3,26.92,70.91,0.359,0.07,64,low
+360,Gujarat,Rajkot,West,2,22.30,70.80,0.23,0.044,128,mid
+361,Gujarat,Jamnagar,West,2,22.47,70.06,0.242,0.046,130,mid
+362,Gujarat,Junagadh,West,3,21.52,70.46,0.282,0.051,68,low
+363,Gujarat,Surendranagar,West,3,22.73,71.64,0.299,0.054,46,low
+364,Gujarat,Bhavnagar,West,2,21.76,72.15,0.223,0.042,124,mid
+370,Gujarat,Bhuj,West,3,23.24,69.67,0.268,0.05,64,low
+380,Gujarat,Ahmedabad,West,1,23.02,72.57,0.151,0.035,191,high
+382,Gujarat,Gandhinagar,West,2,23.22,72.65,0.268,0.046,135,mid
+383,Gujarat,Himmatnagar,West,3,23.60,72.96,0.315,0.059,54,low
+384,Gujarat,Mehsana,West,3,23.60,72.39,0.316,0.057,69,low
+385,Gujarat,Palanpur,West,3,24.17,72.43,0.308,0.057,50,low
+387,Gujarat,Nadiad,West,3,22.69,72.86,0.31,0.059,73,low
+388,Gujarat,Anand,West,3,22.56,72.95,0.325,0.061,45,low
+389,Gujarat,Godhra,West,3,22.78,73.61,0.339,0.067,72,low
+390,Gujarat,Vadodara,West,2,22.31,73.18,0.234,0.041,132,high
+391,Gujarat,Vadodara Rural,West,3,22.40,73.30,0.296,0.058,60,low
+392,Gujarat,Bharuch,West,3,21.71,72.98,0.271,0.05,54,low
+394,Gujarat,Surat,West,2,21.17,72.83,0.234,0.043,116,mid
+395,Gujarat,Surat City,West,2,21.19,72.82,0.24,0.046,128,high
+396,Gujarat,Valsad / Vapi,West,3,20.61,72.93,0.332,0.058,57,low
+400,Maharashtra,Mumbai,West,1,19.08,72.88,0.149,0.03,188,high
+401,Maharashtra,Vasai-Virar,West,2,19.39,72.84,0.217,0.039,122,mid
+402,Maharashtra,Raigad,West,3,18.52,73.18,0.322,0.06,68,low
+403,Goa,Panaji,West,2,15.49,73.83,0.195,0.035,112,high
+410,Maharashtra,Panvel,West,2,18.99,73.12,0.277,0.052,119,mid
+411,Maharashtra,Pune,West,1,18.52,73.86,0.197,0.042,207,high
+412,Maharashtra,Pune Rural,West,3,18.60,74.10,0.275,0.042,66,low
+413,Maharashtra,Solapur,West,2,17.66,75.91,0.258,0.052,109,mid
+414,Maharashtra,Ahmednagar,West,3,19.09,74.74,0.289,0.048,51,low
+415,Maharashtra,Satara,West,3,17.68,74.02,0.319,0.047,61,low
+416,Maharashtra,Kolhapur,West,2,16.70,74.24,0.229,0.045,123,mid
+421,Maharashtra,Kalyan / Bhiwandi,West,2,19.24,73.13,0.219,0.042,126,mid
+422,Maharashtra,Nashik,West,2,19.99,73.79,0.21,0.045,106,mid
+423,Maharashtra,Malegaon,West,3,20.55,74.53,0.274,0.048,66,low
+424,Maharashtra,Dhule,West,3,20.90,74.77,0.285,0.05,61,low
+425,Maharashtra,Jalgaon,West,3,21.00,75.56,0.322,0.056,54,low
+431,Maharashtra,Aurangabad,West,2,19.88,75.34,0.216,0.043,132,mid
+440,Maharashtra,Nagpur,Central,2,21.15,79.09,0.268,0.048,110,mid
+441,Maharashtra,Nagpur Rural,Central,3,21.30,79.20,0.324,0.059,46,low
+442,Maharashtra,Chandrapur,Central,3,19.96,79.30,0.337,0.062,46,low
+443,Maharashtra,Buldhana,West,3,20.53,76.18,0.263,0.049,45,low
+444,Maharashtra,Amravati,Central,2,20.93,77.75,0.227,0.044,133,mid
+445,Maharashtra,Yavatmal,Central,3,20.39,78.12,0.298,0.051,52,low
+450,Madhya Pradesh,Khandwa,Central,3,21.82,76.35,0.337,0.057,64,low
+451,Madhya Pradesh,Khargone,Central,3,21.82,75.61,0.313,0.064,56,low
+452,Madhya Pradesh,Indore,Central,2,22.72,75.86,0.233,0.041,108,mid
+453,Madhya Pradesh,Mhow,Central,3,22.55,75.76,0.307,0.055,68,low
+454,Madhya Pradesh,Dhar,Central,3,22.60,75.30,0.296,0.067,46,low
+455,Madhya Pradesh,Dewas,Central,3,22.97,76.05,0.288,0.053,75,low
+456,Madhya Pradesh,Ujjain,Central,2,23.18,75.78,0.206,0.05,115,mid
+457,Madhya Pradesh,Ratlam,Central,3,23.33,75.04,0.261,0.05,67,low
+458,Madhya Pradesh,Mandsaur,Central,3,24.07,75.07,0.276,0.046,66,low
+460,Madhya Pradesh,Betul,Central,3,21.90,77.90,0.321,0.054,62,low
+461,Madhya Pradesh,Narmadapuram,Central,3,22.75,77.72,0.334,0.059,65,low
+462,Madhya Pradesh,Bhopal,Central,2,23.26,77.41,0.222,0.047,108,mid
+464,Madhya Pradesh,Vidisha,Central,3,23.52,77.81,0.284,0.052,49,low
+466,Madhya Pradesh,Sehore,Central,3,23.20,77.08,0.337,0.06,75,low
+470,Madhya Pradesh,Sagar,Central,3,23.84,78.74,0.332,0.061,71,low
+471,Madhya Pradesh,Chhatarpur,Central,3,24.92,79.58,0.32,0.061,49,low
+474,Madhya Pradesh,Gwalior,Central,2,26.22,78.18,0.272,0.06,117,mid
+476,Madhya Pradesh,Morena,Central,3,26.50,78.00,0.267,0.046,69,low
+480,Madhya Pradesh,Chhindwara,Central,3,22.06,78.94,0.294,0.053,69,low
+481,Madhya Pradesh,Balaghat,Central,3,21.81,80.18,0.297,0.055,45,low
+482,Madhya Pradesh,Jabalpur,Central,2,23.18,79.99,0.245,0.047,109,mid
+483,Madhya Pradesh,Katni,Central,3,23.83,80.39,0.272,0.054,64,low
+484,Madhya Pradesh,Shahdol,Central,3,23.30,81.36,0.322,0.071,57,low
+485,Madhya Pradesh,Satna,Central,3,24.60,80.83,0.293,0.051,53,low
+486,Madhya Pradesh,Rewa,Central,3,24.53,81.30,0.32,0.055,47,low
+490,Chhattisgarh,Durg-Bhilai,Central,2,21.19,81.28,0.277,0.051,119,mid
+491,Chhattisgarh,Rajnandgaon,Central,3,21.10,81.03,0.338,0.058,48,low
+492,Chhattisgarh,Raipur,Central,2,21.25,81.63,0.257,0.046,122,mid
+493,Chhattisgarh,Raipur Rural,Central,3,21.40,81.80,0.281,0.054,51,low
+494,Chhattisgarh,Jagdalpur,Central,3,19.08,82.02,0.305,0.057,73,low
+495,Chhattisgarh,Bilaspur,Central,2,22.08,82.15,0.254,0.046,120,mid
+496,Chhattisgarh,Raigarh,Central,3,21.90,83.40,0.26,0.048,59,low
+497,Chhattisgarh,Ambikapur,Central,3,23.12,83.20,0.288,0.048,72,low
+500,Telangana,Hyderabad,South,1,17.39,78.49,0.162,0.033,191,high
+501,Telangana,Hyderabad Rural,South,3,17.30,78.20,0.311,0.06,75,low
+502,Telangana,Sangareddy,South,3,17.62,78.08,0.33,0.059,64,low
+503,Telangana,Nizamabad,South,3,18.67,78.09,0.265,0.047,61,low
+505,Telangana,Karimnagar,South,3,18.44,79.13,0.312,0.06,50,low
+506,Telangana,Warangal,South,2,17.97,79.59,0.257,0.045,128,mid
+507,Telangana,Khammam,South,3,17.25,80.15,0.303,0.054,70,low
+508,Telangana,Nalgonda,South,3,17.05,79.27,0.324,0.053,52,low
+509,Telangana,Mahbubnagar,South,3,16.74,78.00,0.278,0.059,73,low
+515,Andhra Pradesh,Anantapur,South,3,14.68,77.60,0.303,0.05,50,low
+516,Andhra Pradesh,Kadapa,South,3,14.47,78.82,0.325,0.062,59,low
+517,Andhra Pradesh,Tirupati,South,2,13.63,79.42,0.259,0.051,107,mid
+518,Andhra Pradesh,Kurnool,South,3,15.83,78.04,0.28,0.054,48,low
+520,Andhra Pradesh,Vijayawada,South,2,16.51,80.65,0.225,0.046,133,mid
+521,Andhra Pradesh,Machilipatnam,South,3,16.19,81.14,0.299,0.048,52,low
+522,Andhra Pradesh,Guntur,South,2,16.31,80.44,0.22,0.049,135,mid
+523,Andhra Pradesh,Ongole,South,3,15.51,80.05,0.298,0.049,71,low
+524,Andhra Pradesh,Nellore,South,2,14.44,79.99,0.24,0.05,134,mid
+530,Andhra Pradesh,Visakhapatnam,South,2,17.69,83.22,0.265,0.053,126,mid
+531,Andhra Pradesh,Anakapalle,South,3,17.69,83.00,0.319,0.059,59,low
+532,Andhra Pradesh,Srikakulam,South,3,18.30,83.90,0.264,0.05,73,low
+533,Andhra Pradesh,Kakinada,South,2,16.99,82.25,0.205,0.036,107,mid
+534,Andhra Pradesh,Eluru,South,3,16.71,81.10,0.273,0.053,54,low
+535,Andhra Pradesh,Vizianagaram,South,3,18.11,83.40,0.314,0.05,54,low
+560,Karnataka,Bengaluru,South,1,12.97,77.59,0.182,0.036,199,high
+561,Karnataka,Chikkaballapur,South,3,13.43,77.73,0.308,0.056,65,low
+562,Karnataka,Ramanagara,South,3,12.72,77.28,0.301,0.049,50,low
+563,Karnataka,Kolar,South,3,13.14,78.13,0.277,0.05,73,low
+570,Karnataka,Mysuru,South,2,12.30,76.64,0.203,0.044,105,mid
+571,Karnataka,Mandya,South,3,12.52,76.90,0.266,0.054,64,low
+572,Karnataka,Tumakuru,South,3,13.34,77.10,0.319,0.051,61,low
+573,Karnataka,Hassan,South,3,13.01,76.10,0.287,0.057,53,low
+574,Karnataka,Puttur,South,3,12.76,75.20,0.289,0.047,68,low
+575,Karnataka,Mangaluru,South,2,12.91,74.86,0.239,0.041,118,mid
+576,Karnataka,Udupi,South,3,13.34,74.75,0.279,0.051,67,low
+577,Karnataka,Davanagere,South,3,14.46,75.92,0.315,0.051,48,low
+580,Karnataka,Hubballi-Dharwad,South,2,15.36,75.12,0.268,0.055,128,mid
+581,Karnataka,Karwar,South,3,14.81,74.13,0.304,0.058,68,low
+582,Karnataka,Gadag,South,3,15.43,75.63,0.317,0.061,51,low
+583,Karnataka,Ballari,South,3,15.14,76.92,0.31,0.056,66,low
+584,Karnataka,Raichur,South,3,16.20,77.36,0.324,0.059,74,low
+585,Karnataka,Kalaburagi,South,3,17.33,76.83,0.292,0.061,70,low
+586,Karnataka,Vijayapura,South,3,16.83,75.71,0.313,0.059,52,low
+587,Karnataka,Bagalkot,South,3,16.18,75.70,0.302,0.054,70,low
+590,Karnataka,Belagavi,South,2,15.85,74.50,0.229,0.045,130,mid
+591,Karnataka,Chikkodi,South,3,16.43,74.59,0.282,0.053,64,low
+600,Tamil Nadu,Chennai,South,1,13.08,80.27,0.154,0.03,203,high
+601,Tamil Nadu,Gummidipoondi,South,3,13.41,80.12,0.319,0.058,65,mid
+602,Tamil Nadu,Tiruvallur,South,3,13.14,79.91,0.322,0.051,61,mid
+603,Tamil Nadu,Chengalpattu,South,3,12.69,79.98,0.323,0.063,68,mid
+604,Tamil Nadu,Tindivanam,South,3,12.23,79.65,0.261,0.05,72,mid
+605,Puducherry,Puducherry,South,2,11.94,79.81,0.244,0.051,112,mid
+606,Tamil Nadu,Tiruvannamalai,South,3,12.23,79.07,0.313,0.056,75,mid
+607,Tamil Nadu,Cuddalore,South,3,11.75,79.75,0.285,0.056,64,mid
+608,Tamil Nadu,Chidambaram,South,3,11.40,79.69,0.296,0.059,46,mid
+609,Puducherry,Karaikal,South,3,10.93,79.84,0.326,0.062,49,mid
+610,Tamil Nadu,Tiruvarur,South,3,10.77,79.64,0.302,0.054,52,mid
+612,Tamil Nadu,Kumbakonam,South,3,10.96,79.38,0.25,0.048,66,mid
+613,Tamil Nadu,Thanjavur,South,3,10.79,79.14,0.291,0.056,64,mid
+620,Tamil Nadu,Tiruchirappalli,South,2,10.79,78.70,0.194,0.039,127,mid
+621,Tamil Nadu,Perambalur,South,3,11.23,78.88,0.277,0.048,75,mid
+622,Tamil Nadu,Pudukkottai,South,3,10.38,78.82,0.247,0.049,51,mid
+623,Tamil Nadu,Ramanathapuram,South,3,9.37,78.83,0.318,0.06,52,mid
+624,Tamil Nadu,Dindigul,South,3,10.36,77.98,0.31,0.06,67,mid
+625,Tamil Nadu,Madurai,South,2,9.93,78.12,0.225,0.039,127,mid
+626,Tamil Nadu,Virudhunagar,South,3,9.58,77.96,0.261,0.042,52,mid
+627,Tamil Nadu,Tirunelveli,South,3,8.71,77.76,0.295,0.052,74,mid
+628,Tamil Nadu,Thoothukudi,South,3,8.76,78.13,0.254,0.053,72,mid
+629,Tamil Nadu,Nagercoil,South,3,8.18,77.41,0.311,0.048,61,mid
+630,Tamil Nadu,Karaikudi,South,3,10.07,78.78,0.308,0.056,46,mid
+631,Tamil Nadu,Kanchipuram,South,3,12.83,79.70,0.315,0.062,74,mid
+632,Tamil Nadu,Vellore,South,2,12.92,79.13,0.187,0.032,118,mid
+635,Tamil Nadu,Hosur,South,3,12.74,77.83,0.303,0.057,63,mid
+636,Tamil Nadu,Salem,South,2,11.66,78.15,0.235,0.049,106,mid
+637,Tamil Nadu,Namakkal,South,3,11.22,78.17,0.314,0.056,48,mid
+638,Tamil Nadu,Erode,South,2,11.34,77.72,0.24,0.047,121,mid
+639,Tamil Nadu,Karur,South,3,10.96,78.08,0.311,0.054,61,mid
+641,Tamil Nadu,Coimbatore,South,2,11.02,76.96,0.186,0.035,117,mid
+642,Tamil Nadu,Pollachi,South,3,10.66,77.01,0.298,0.054,59,mid
+643,Tamil Nadu,Ooty,South,3,11.41,76.70,0.285,0.052,66,mid
+670,Kerala,Kannur,South,3,11.87,75.37,0.252,0.038,72,mid
+671,Kerala,Kasaragod,South,3,12.50,75.00,0.264,0.052,61,mid
+673,Kerala,Kozhikode,South,2,11.26,75.78,0.188,0.036,133,mid
+676,Kerala,Malappuram,South,3,11.07,76.07,0.257,0.046,46,mid
+678,Kerala,Palakkad,South,3,10.79,76.65,0.291,0.066,52,mid
+680,Kerala,Thrissur,South,2,10.53,76.21,0.218,0.048,133,mid
+682,Kerala,Kochi,South,2,9.93,76.27,0.251,0.041,126,high
+683,Kerala,Aluva,South,3,10.11,76.35,0.264,0.044,47,mid
+685,Kerala,Idukki,South,3,9.85,76.97,0.315,0.052,68,mid
+686,Kerala,Kottayam,South,3,9.59,76.52,0.3,0.048,69,mid
+688,Kerala,Alappuzha,South,3,9.50,76.34,0.308,0.053,60,mid
+689,Kerala,Pathanamthitta,South,3,9.26,76.79,0.318,0.058,62,mid
+691,Kerala,Kollam,South,3,8.89,76.61,0.293,0.052,73,mid
+695,Kerala,Thiruvananthapuram,South,2,8.52,76.94,0.192,0.03,115,mid
+700,West Bengal,Kolkata,East,1,22.57,88.36,0.16,0.03,199,high
+711,West Bengal,Howrah,East,2,22.59,88.31,0.229,0.044,120,mid
+712,West Bengal,Hooghly,East,3,22.90,88.39,0.337,0.057,48,low
+713,West Bengal,Durgapur / Bardhaman,East,2,23.52,87.31,0.219,0.04,133,mid
+721,West Bengal,Medinipur,East,3,22.42,87.32,0.303,0.059,58,low
+722,West Bengal,Bankura,East,3,23.23,87.07,0.339,0.063,68,low
+723,West Bengal,Purulia,East,3,23.33,86.36,0.278,0.054,51,low
+731,West Bengal,Birbhum,East,3,23.91,87.53,0.272,0.05,73,low
+732,West Bengal,Malda,East,3,25.01,88.14,0.279,0.054,72,low
+733,West Bengal,Raiganj,East,3,25.62,88.12,0.29,0.051,56,low
+734,West Bengal,Siliguri,East,2,26.73,88.40,0.202,0.045,108,mid
+735,West Bengal,Jalpaiguri,East,3,26.52,88.72,0.297,0.061,59,low
+736,West Bengal,Cooch Behar,East,3,26.32,89.45,0.309,0.066,62,low
+737,Sikkim,Gangtok,NorthEast,3,27.33,88.61,0.36,0.065,73,mid
+741,West Bengal,Krishnanagar,East,3,23.40,88.50,0.28,0.05,72,low
+742,West Bengal,Berhampore,East,3,24.10,88.25,0.301,0.053,62,low
+743,West Bengal,North 24 Parganas,East,3,22.72,88.48,0.264,0.049,53,low
+744,Andaman and Nicobar Islands,Port Blair,South,3,11.62,92.73,0.317,0.059,53,low
+751,Odisha,Bhubaneswar,East,2,20.30,85.82,0.261,0.054,107,mid
+752,Odisha,Puri,East,3,19.81,85.83,0.268,0.046,70,low
+753,Odisha,Cuttack,East,2,20.46,85.88,0.269,0.052,112,mid
+754,Odisha,Cuttack Rural,East,3,20.50,86.10,0.307,0.054,53,low
+755,Odisha,Jajpur,East,3,20.85,86.33,0.33,0.063,47,low
+756,Odisha,Balasore,East,3,21.49,86.93,0.334,0.06,57,low
+757,Odisha,Baripada,East,3,21.94,86.72,0.328,0.054,47,low
+759,Odisha,Angul,East,3,20.84,85.10,0.316,0.05,57,low
+760,Odisha,Berhampur,East,3,19.31,84.79,0.266,0.047,62,low
+761,Odisha,Ganjam,East,3,19.39,84.68,0.276,0.051,74,low
+764,Odisha,Koraput,East,3,18.81,82.71,0.264,0.043,75,low
+768,Odisha,Sambalpur,East,3,21.47,83.97,0.334,0.058,74,low
+769,Odisha,Rourkela,East,2,22.26,84.85,0.228,0.046,129,mid
+770,Odisha,Sundargarh,East,3,22.12,84.03,0.335,0.063,71,low
+781,Assam,Guwahati,NorthEast,2,26.14,91.74,0.315,0.064,110,mid
+782,Assam,Nagaon,NorthEast,3,26.35,92.68,0.352,0.069,65,low
+783,Assam,Bongaigaon,NorthEast,3,26.48,90.56,0.364,0.068,55,low
+784,Assam,Tezpur,NorthEast,3,26.63,92.80,0.329,0.058,58,low
+785,Assam,Jorhat,NorthEast,3,26.75,94.20,0.34,0.06,68,low
+786,Assam,Dibrugarh,NorthEast,3,27.47,94.91,0.382,0.07,71,low
+787,Assam,North Lakhimpur,NorthEast,3,27.24,94.10,0.368,0.075,56,low
+788,Assam,Silchar,NorthEast,3,24.83,92.78,0.335,0.067,71,low
+790,Arunachal Pradesh,Bomdila,NorthEast,3,27.26,92.42,0.411,0.075,61,low
+791,Arunachal Pradesh,Itanagar,NorthEast,3,27.08,93.61,0.372,0.068,66,low
+792,Arunachal Pradesh,Tezu,NorthEast,3,27.92,96.16,0.357,0.063,52,low
+793,Meghalaya,Shillong,NorthEast,3,25.58,91.89,0.335,0.067,68,low
+794,Meghalaya,Tura,NorthEast,3,25.51,90.22,0.319,0.053,47,low
+795,Manipur,Imphal,NorthEast,3,24.82,93.94,0.384,0.075,71,low
+796,Mizoram,Aizawl,NorthEast,3,23.73,92.72,0.316,0.057,72,low
+797,Nagaland,Kohima,NorthEast,3,25.67,94.11,0.315,0.062,74,low
+798,Nagaland,Mokokchung,NorthEast,3,26.32,94.52,0.321,0.068,73,low
+799,Tripura,Agartala,NorthEast,3,23.83,91.28,0.327,0.06,54,low
+800,Bihar,Patna,East,2,25.59,85.14,0.292,0.06,114,mid
+801,Bihar,Patna Rural,East,3,25.45,85.00,0.314,0.058,68,low
+802,Bihar,Arrah,East,3,25.56,84.66,0.358,0.068,66,low
+803,Bihar,Bihar Sharif,East,3,25.20,85.52,0.311,0.055,45,low
+804,Bihar,Jehanabad,East,3,25.21,84.99,0.358,0.071,53,low
+805,Bihar,Nawada,East,3,24.88,85.54,0.336,0.06,46,low
+811,Bihar,Munger,East,3,25.38,86.47,0.299,0.059,67,low
+812,Bihar,Bhagalpur,East,3,25.24,86.97,0.324,0.054,73,low
+813,Bihar,Banka,East,3,24.88,86.92,0.299,0.06,70,low
+814,Jharkhand,Deoghar / Dumka,East,3,24.48,86.70,0.343,0.062,54,low
+815,Jharkhand,Giridih,East,3,24.19,86.30,0.335,0.055,45,low
+816,Jharkhand,Sahebganj,East,3,25.24,87.65,0.352,0.063,74,low
+821,Bihar,Sasaram,East,3,24.95,84.03,0.287,0.053,61,low
+822,Jharkhand,Daltonganj,East,3,24.04,84.07,0.354,0.06,46,low
+823,Bihar,Gaya,East,3,24.79,85.00,0.307,0.049,64,low
+824,Bihar,Aurangabad,East,3,24.75,84.37,0.353,0.069,57,low
+825,Jharkhand,Hazaribagh,East,3,23.99,85.36,0.328,0.055,69,low
+826,Jharkhand,Dhanbad,East,2,23.80,86.43,0.286,0.05,133,mid
+827,Jharkhand,Bokaro,East,2,23.67,86.15,0.243,0.047,106,mid
+828,Jharkhand,Jharia,East,3,23.75,86.42,0.284,0.05,65,low
+829,Jharkhand,Ramgarh,East,3,23.63,85.52,0.289,0.059,64,low
+831,Jharkhand,Jamshedpur,East,2,22.80,86.20,0.232,0.048,131,mid
+832,Jharkhand,Ghatshila,East,3,22.58,86.48,0.339,0.063,45,low
+833,Jharkhand,Chaibasa,East,3,22.55,85.80,0.327,0.064,65,low
+834,Jharkhand,Ranchi,East,2,23.34,85.31,0.253,0.046,127,mid
+835,Jharkhand,Ranchi Rural,East,3,23.20,85.10,0.288,0.059,56,low
+841,Bihar,Chapra,East,3,25.78,84.73,0.361,0.062,53,low
+842,Bihar,Muzaffarpur,East,3,26.12,85.39,0.351,0.067,55,low
+843,Bihar,Sitamarhi,East,3,26.60,85.48,0.334,0.057,53,low
+844,Bihar,Hajipur,East,3,25.69,85.21,0.343,0.065,60,low
+845,Bihar,Motihari,East,3,26.65,84.92,0.364,0.067,68,low
+846,Bihar,Darbhanga,East,3,26.15,85.90,0.336,0.06,48,low
+847,Bihar,Madhubani,East,3,26.35,86.07,0.337,0.061,55,low
+848,Bihar,Samastipur,East,3,25.86,85.78,0.332,0.057,51,low
+851,Bihar,Begusarai,East,3,25.42,86.13,0.312,0.062,75,low
+852,Bihar,Saharsa,East,3,25.88,86.60,0.285,0.055,74,low
+854,Bihar,Purnia,East,3,25.78,87.47,0.328,0.063,48,low
+855,Bihar,Kishanganj,East,3,26.10,87.95,0.314,0.056,74,low
